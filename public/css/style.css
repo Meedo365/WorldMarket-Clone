@@ -1,0 +1,21 @@
+#discover{
+    outline: none;
+    width: 13rem;
+    border: 1px solid whitesmoke;
+    transition: all 1s;
+}
+#discover:focus{
+    width: 20rem;
+    border: 1px solid black;
+}
+#dis{
+    align-items: center;
+    display: flex;
+}
+#dis img{
+   position: relative;
+   border: none;
+   margin-left: -25px;
+   width: 15px;
+   cursor: pointer;
+}

@@ -1,0 +1,7 @@
+#discover{
+    outline: none;
+    width: 13rem;
+}
+#discover:focus{
+    width: 20rem;
+}
